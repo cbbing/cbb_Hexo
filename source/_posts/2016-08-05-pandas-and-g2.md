@@ -120,7 +120,7 @@ f.close()
 ```
 top10.html文件和top10.json文件在一个文件夹内。
 生成的图表如下(可点击交互)：
-<div><iframe src="https://dn-binger.qbox.me/2016-08-05/annual_return_rate2index_top10.html" width="500" height="400" frameborder="no" scrolling="no" ></iframe></div>
+<div><iframe src="https://dn-binger.qbox.me/2016-08-05/annual_return_rate2index_top10.html" width="500" height="450" frameborder="no" scrolling="no" ></iframe></div>
 
 ## 2，计算推荐次数最多的股票
 
