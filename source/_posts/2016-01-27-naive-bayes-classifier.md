@@ -6,7 +6,7 @@ tags:
 	- 贝叶斯分类器
 	- nltk
 	- 贝叶斯原理
-	- python
+	- Python
 category: Python
 comments: true
 mathjax: true

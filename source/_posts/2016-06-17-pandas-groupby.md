@@ -5,8 +5,10 @@ date: 2016-06-17 18:12:02
 tags:
 	- pandas
 	- groupby
-	- python
+	- Python
 	- 分组
+category: Python
+comments: true
 ---
 
 # 一、GroupBy技术

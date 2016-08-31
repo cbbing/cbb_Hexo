@@ -5,7 +5,9 @@ date: 2016-06-27 16:51:37
 tags:
 	- pandas
 	- groupby
-	- python
+	- Python
+category: Python
+comments: true
 ---
 
 最近需要根据已有的数据计算这样一组数据：

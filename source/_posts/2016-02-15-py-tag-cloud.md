@@ -3,9 +3,11 @@ layout: post
 title: python 制作标签云
 date: 2016-02-15 09:19:38
 tags:
-	- python
+	- Python
 	- pytagcloud
 	- 标签云
+category: Python
+comments: true
 ---
 标签云是比较直观的频率分布表现方式，很多网站和APP在年度盘点和总结时会使用。Python生成标签云有一个比较易用的库 pytagcloud。
 

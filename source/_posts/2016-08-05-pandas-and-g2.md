@@ -5,7 +5,9 @@ date: 2016-08-05 18:13:41
 tags:
 	- pandas
 	- g2
-	- python
+	- Python
+category: Python
+comments: true
 ---
 
 # 一、简介

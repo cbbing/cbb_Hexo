@@ -7,6 +7,8 @@ tags:
 	- Objective-C
 	- WKWebView
 	- XCode
+category: IOS
+comments: true
 ---
 
 一年多没接触xcode了，这一年主要用python做开发，刹一接触xcode代码，还是有点陌生的感觉。在网上闲逛了一通，发现网上的ios教程用swift编写的比oc的多多了。看来苹果的swift推广的比较好。我偶尔写写简单的app，objective-c用过一段时间，这次还是用oc，swift等有时间了好好研究一下。

@@ -6,7 +6,10 @@ tags:
 	- pandas
 	- DataFrame
 	- 数据分析
-	- python
+	- Python
+
+category: Python
+comments: true
 ---
 
 使用pandas，首先导入包：
